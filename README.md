@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Hi there 👋
 hey this is Ramya Gopalam.
 
@@ -9,4 +9,4 @@ hey this is Ramya Gopalam.
 👯 i'm from india
 🤔 I love watching movies
 💬 soccer is my favorite game
--->
+
